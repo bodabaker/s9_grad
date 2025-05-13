@@ -1,0 +1,15 @@
+artifact_uri: file:///home/boda/Projects/s9_grad/mlruns/680919320475692770/c666c8113b454f65844a0e37c3632bb3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '680919320475692770'
+lifecycle_stage: active
+run_id: c666c8113b454f65844a0e37c3632bb3
+run_name: grandiose-finch-87
+run_uuid: c666c8113b454f65844a0e37c3632bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747133853749
+status: 1
+tags: []
+user_id: boda

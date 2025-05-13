@@ -1,0 +1,15 @@
+artifact_uri: file:///home/boda/Projects/s9_grad/mlruns/680919320475692770/d01fd3f1cadf43289469f65a0c48ba96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '680919320475692770'
+lifecycle_stage: active
+run_id: d01fd3f1cadf43289469f65a0c48ba96
+run_name: rf_run
+run_uuid: d01fd3f1cadf43289469f65a0c48ba96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747133879862
+status: 1
+tags: []
+user_id: boda

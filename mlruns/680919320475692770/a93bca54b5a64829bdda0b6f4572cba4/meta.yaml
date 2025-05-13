@@ -1,0 +1,15 @@
+artifact_uri: file:///home/boda/Projects/s9_grad/mlruns/680919320475692770/a93bca54b5a64829bdda0b6f4572cba4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '680919320475692770'
+lifecycle_stage: active
+run_id: a93bca54b5a64829bdda0b6f4572cba4
+run_name: indecisive-wolf-206
+run_uuid: a93bca54b5a64829bdda0b6f4572cba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747131503280
+status: 1
+tags: []
+user_id: boda
